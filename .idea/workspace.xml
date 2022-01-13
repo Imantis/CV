@@ -100,6 +100,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +117,7 @@
       <workItem from="1624430924980" duration="6220000" />
       <workItem from="1624439080706" duration="767000" />
       <workItem from="1624564878726" duration="4770000" />
-      <workItem from="1642088781913" duration="74000" />
+      <workItem from="1642088781913" duration="961000" />
     </task>
     <task id="LOCAL-00001" summary="Third">
       <created>1624439478201</created>
@@ -125,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624439478201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third">
+      <created>1642088867230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642088867230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
