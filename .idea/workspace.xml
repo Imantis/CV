@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a73058f-7e4a-4e27-834e-b777a3ee69c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,7 @@
       <workItem from="1624439080706" duration="767000" />
       <workItem from="1624564878726" duration="4770000" />
       <workItem from="1642088781913" duration="961000" />
-      <workItem from="1642962226066" duration="34000" />
+      <workItem from="1642962226066" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="Third">
       <created>1624439478201</created>
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642088867230</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third">
+      <created>1642962277115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642962277116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
